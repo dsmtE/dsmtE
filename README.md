@@ -1,16 +1,19 @@
-### Hi 👋 I am a computer graphics engineer, teacher and gameplay programmer at [Ubisoft Paris](https://paris.ubisoft.com/fr/)
+###  Hi 👋 I am a computer graphics engineer, teacher and gameplay programmer at [Ubisoft Paris](https://paris.ubisoft.com/fr/)
 
-Currently
+
+Graduated from [IMAC](https://www.ingenieur-imac.fr/) engineering school
+
+**Currently**
  - 🕹️ Working at [Ubisoft Paris](https://paris.ubisoft.com/fr/) as gameplay programmer
  - 🦀 Learning **Rust** by doing some fun projects
 
-Interested in
+**Interested in**
  - 🔨 Software architecture & engineering
  - 🖼️ Computer graphics
  - 🎨 Generative art
  - ⚙️ Procedural things
 
-I love
+**I love**
  - 🎁 Sharing knowledge
  - 🛞 [OneWheel](https://onewheel.com/)
  - 🎪 Jungling
