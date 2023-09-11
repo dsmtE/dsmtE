@@ -5,12 +5,14 @@ Graduated from [IMAC](https://www.ingenieur-imac.fr/) engineering school
 
 **Currently**
  - 🕹️ Working at [Ubisoft Paris](https://paris.ubisoft.com/fr/) as gameplay programmer
+ - 💻 Teacher of [C++ programming](https://dsmte.github.io/Learn--cpp_programming/) at IMAC school
  - 🦀 Learning **Rust** by doing some fun projects
 
 **Interested in**
  - 🔨 Software architecture & engineering
  - 🖼️ Computer graphics
- - 🎨 Generative art
+ - 🎨 Generative art ([Shader toy](https://www.shadertoy.com/user/Kaeylos))
+ - 📷 Photography ([@enguerrand_desmet](https://www.instagram.com/enguerrand_desmet/?hl=fr))
  - ⚙️ Procedural things
 
 **I love**
